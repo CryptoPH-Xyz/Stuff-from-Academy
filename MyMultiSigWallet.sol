@@ -1,5 +1,5 @@
 pragma solidity 0.8.3;
-
+pragma abicoder v2;
 // This MultiSig Wallet can start with 2 owners and can add after deployed up to 10 max owners
 
 
